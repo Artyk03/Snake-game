@@ -26,7 +26,7 @@ let foodX; // X position of the food
 let foodY; // Y position of the food
 
 // Variable to keep track of game over state
-let gameOver = false;
+let gameOver2 = false;
 
 // Variable to store the score
 let score = 0; // Initialize score counter
